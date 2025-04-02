@@ -1,5 +1,5 @@
 # Cheatsheet
-#C
+# C
 
 
 main() Function
